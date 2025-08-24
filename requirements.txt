@@ -4,3 +4,4 @@ pandas
 openpyxl
 pyxlsb
 jinja2
+python-multipart
